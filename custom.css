@@ -1,0 +1,16 @@
+nav {
+  background-color: #FFFFF00 !important;
+}
+
+.logo {
+  background-color: #222D32 !important;
+}
+
+.main-header .logo {
+  font-family: "Helvetica", Times, "Lucidatypewriter", serif;
+  font-size: 20px; font_style: italic;
+}
+
+#center {
+  font-family: "Helvetica" !important;
+}
