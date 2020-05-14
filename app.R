@@ -37,7 +37,7 @@ ui<-navbarPage("Covid 19 Dashboard Based on WHO",
                Department of Business Statistics, Matana University (Tangerang) "),
                         sidebarLayout(
                             sidebarPanel(
-                                downloadButton("downloadCode", "Download Code", href = "https://github.com/sofia3484/CSD-Rshiny")),
+                                downloadButton("downloadCode", "Download Code", href = "https://github.com/sofia3484/CSD-Rshiny/blob/master/app.R")),
                             mainPanel(tableOutput("table"))))
 )
 
